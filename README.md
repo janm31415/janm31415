@@ -1,4 +1,4 @@
-I'm Jan Maes, a software developer from Belgium.
+Hello, I'm Jan Maes, a software developer from Belgium.
 
 Most of my hobby software projects I host on my GitHub page. I typically write in C++, although I try to learn some C, Scheme, Swift and Python.
 
